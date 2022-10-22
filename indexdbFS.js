@@ -1,7 +1,3 @@
-/**
- * this is an easy way to store files locally without hitting the localstorage 5mb limit
- * There are some compatibility issues but I will attempt to resolve them
- */
 
 
 var dbfs = {};
